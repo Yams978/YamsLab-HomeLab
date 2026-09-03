@@ -49,6 +49,7 @@ My goals include:
 - Hosts virtual machines and infrastructure workloads
 
 ### PVE2 — Secondary Proxmox Node
+- Karmui E1 N97 Mini
 - Proxmox VE
 - Hosts the Jellyfin virtual machine
 - Part of the YamsLab Proxmox environment
