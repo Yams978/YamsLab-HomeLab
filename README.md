@@ -1,6 +1,16 @@
 # 🖥️ YamsLab Homelab
 
 Welcome to **YamsLab**, my personal homelab built to develop hands-on experience with networking, virtualization, Linux, containers, infrastructure, and cloud technologies.
+## 🔗 Quick Links
+
+- 🌐 [Networking Documentation](networking/README.md)
+- 🛠️ [Troubleshooting Case Studies](troubleshooting/)
+- 🗺️ [Network Architecture](#-yamslab-network-architecture)
+- 🖥️ [Current Infrastructure](#️-current-infrastructure)
+- 🔧 [Current Projects](#-current-projects)
+- 🧠 [Skills Demonstrated](#-skills-demonstrated)
+
+---
 
 I am currently completing the **Microsoft Software & Systems Academy (MSSA) Server & Cloud Administration** program while building YamsLab as a practical environment for applying the concepts I learn.
 
