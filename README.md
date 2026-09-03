@@ -6,6 +6,10 @@ I am currently completing the **Microsoft Software & Systems Academy (MSSA) Serv
 
 > 🚧 **YamsLab is an active project.** The environment is continuously being expanded, documented, and improved.
 
+## 🌐 YamsLab Network Architecture
+
+![YamsLab Current and Future Network Architecture](diagram.png)
+
 ---
 
 ## 🎯 Project Goals
