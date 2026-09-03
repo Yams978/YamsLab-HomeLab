@@ -18,7 +18,7 @@ I am currently completing the **Microsoft Software & Systems Academy (MSSA) Serv
 
 ## 🌐 YamsLab Network Architecture
 
-![YamsLab Current and Future Network Architecture](diagram.png)
+![YamsLab Current and Future Network Architecture](yamslab-network-architecture.png)
 
 ---
 
