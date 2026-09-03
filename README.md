@@ -24,7 +24,7 @@ I am currently completing the **Microsoft Software & Systems Academy (MSSA) Serv
 
 ## 🎯 Project Goals
 
-YamsLab was created to provide hands-on experience beyond classroom training.
+YamsLab started as a way to gain hands-on experience beyond classroom training, but it has also grown into a project focused on making the technology in my home more reliable, secure, and convenient.
 
 My goals include:
 
