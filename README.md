@@ -3,13 +3,21 @@
 Welcome to **YamsLab**, my personal homelab built to develop hands-on experience with networking, virtualization, Linux, containers, infrastructure, and cloud technologies.
 ## 🔗 Quick Links
 
-- 🌐 [Networking Documentation](networking/README.md)
-### 🔧 Troubleshooting Case Studies
-- [Jellyfin VM Migration & Connectivity Troubleshooting](troubleshooting/jellyfin-vm-migration.md)
-- 🗺️ [Network Architecture](#-yamslab-network-architecture)
-- 🖥️ [Current Infrastructure](#️-current-infrastructure)
-- 🔧 [Current Projects](#-current-projects)
-- 🧠 [Skills Demonstrated](#-skills-demonstrated)
+| Section | Description |
+|---|---|
+| 🌐 [Networking Documentation](networking/README.md) | Network configuration and documentation |
+| 🗺️ [Network Architecture](#-yamslab-network-architecture) | Current and planned YamsLab topology |
+| 🖥️ [Current Infrastructure](#-current-infrastructure) | Hardware, nodes, and services |
+| 🔧 [Current Projects](#-current-projects) | Projects currently running or in development |
+| 🧠 [Skills Demonstrated](#-skills-demonstrated) | Technical skills demonstrated through YamsLab |
+
+## 🛠️ Troubleshooting Case Studies
+
+Real issues I've encountered while building YamsLab, including the troubleshooting process, commands used, and the final resolution.
+
+### 🎬 [Jellyfin VM Migration & Connectivity Troubleshooting](troubleshooting/jellyfin-vm-migration.md)
+
+Migrated Jellyfin into a dedicated VM and troubleshot connectivity, Docker networking, storage mounts, firewall configuration, and Intel Quick Sync hardware acceleration.
 
 ---
 
