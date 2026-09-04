@@ -179,6 +179,4 @@ It also reinforced why backing up application configuration before a migration m
 
 Internal network information, including IP addresses, has been intentionally redacted from this documentation before publication.
 
-### Security Note
 
-Internal network information, including IP addresses, has been intentionally redacted from this documentation before publication.
