@@ -4,7 +4,8 @@ Welcome to **YamsLab**, my personal homelab built to develop hands-on experience
 ## 🔗 Quick Links
 
 - 🌐 [Networking Documentation](networking/README.md)
-- 🛠️ [Troubleshooting Case Studies](troubleshooting/)
+### 🔧 Troubleshooting Case Studies
+- [Jellyfin VM Migration & Connectivity Troubleshooting](troubleshooting/jellyfin-vm-migration.md)
 - 🗺️ [Network Architecture](#-yamslab-network-architecture)
 - 🖥️ [Current Infrastructure](#️-current-infrastructure)
 - 🔧 [Current Projects](#-current-projects)
