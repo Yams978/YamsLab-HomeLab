@@ -52,39 +52,47 @@ My goals include:
 
 ## 🖥️ Current Infrastructure
 
-### PVE1 — Primary Proxmox Node
-- HP EliteDesk 705 G5 Mini
+### PVE1 — HP EliteDesk 705 G5 Mini
 - Proxmox VE
-- Hosts virtual machines and infrastructure workloads
+- 16 GB RAM
+- Primary stable infrastructure node
+- Hosts:
+  - Ubuntu Server VM
+    - Docker
+    - Portainer
+    - Uptime Kuma
+    - AdGuard Home
+    - Homepage
+    - Seerr
+    - Radarr
+    - Tailscale
+  - Home Assistant VM
 
-### PVE2 — Secondary Proxmox Node
-- Karmui E1 N97 Mini
+### PVE2 — Karumi E1 N97 Mini PC
 - Proxmox VE
-- Hosts the Jellyfin virtual machine
-- Part of the YamsLab Proxmox environment
-
-### Node 1 — Docker Services
-Runs containerized infrastructure and application services including:
-
-- Docker
-- Portainer
-- Uptime Kuma
-- AdGuard Home
-- Homepage
-- Seerr
-- Radarr
-- Tailscale
-
-### Node 2 — Media Server
-- Jellyfin
-- Dedicated media-server role
-- Remote access through Tailscale
+- 16 GB RAM
+- Currently hosts the Jellyfin VM
+- Intel Quick Sync hardware acceleration
+- Planned to become a lab / experimentation / MSSA virtualization node after Jellyfin migration
 
 ### Raspberry Pi 5
 - 16 GB RAM
+- 1 TB NVMe
 - Infrastructure platform
-- Planned for additional network/infrastructure services
+- Planned for DNS / AdGuard and lightweight network services
 
+### TerraMaster F4-425 Pro — Planned Primary NAS
+- Intel N305
+- Centralized storage
+- Planned Jellyfin host
+- SMB file shares
+- Application and configuration storage
+
+### Main PC
+- Gaming
+- Personal use
+- School / MSSA work
+- Access to YamsLab services
 ---
 
 ## 🐳 Services & Technologies
